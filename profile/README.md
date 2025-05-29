@@ -25,7 +25,7 @@ Meet the people behind the build:
   Joaquin crafts smooth and engaging interfaces, prioritizing accessibility and visual storytelling in every build.
 
 - **Arron Kian Parejas**  
-  🔹 *Full Stack Developer & Project Manager*  
+  🔹 *Backend Developer & Project Manager*  
   As the project lead, Arron oversees our sprint cycles, task distribution, and seamless integration between front and back ends.
 
 - **Masato Martin**  
